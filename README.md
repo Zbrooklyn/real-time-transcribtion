@@ -12,4 +12,7 @@ faster-whisper github: https://github.com/SYSTRAN/faster-whisper
 5. run test2.py
 
 
+---
+
+
 Crediit https://github.com/All-About-AI-YouTube
