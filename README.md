@@ -10,3 +10,6 @@ faster-whisper github: https://github.com/SYSTRAN/faster-whisper
    beam_size=5 - adjust for accuracy (i think)
    chunk_lenght=1 - adjust for chunk size
 5. run test2.py
+
+
+Crediit https://github.com/All-About-AI-YouTube
